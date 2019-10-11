@@ -1,6 +1,6 @@
 
 # Hand-Gesture-Recognition-with-Machine-Learning
-A software project utilizing computer vision and machine learning techniques which can recognize 9 unique hand gestures. Created during HAkron's 24 hour hackathon, "HAkron 4k". Program made by Michael Fasko Jr and Jacob Calfee.
+A software project utilizing computer vision and machine learning techniques which can recognize 9 unique hand gestures. Created during HAkron's 24 hour hackathon, "HAkron 4k". Program made by [Michael Fasko Jr](https://github.com/Fasko) and [Jacob Calfee](https://github.com/jacobcalf/).
 
 Project was awarded with "Best Software" and placed into the overall top 5 projects at HAkron 4k.
 
@@ -12,7 +12,7 @@ By using this technology, we were interested in seeing the accuracy of being abl
 
 
 ## What It Does
-Recognizes 9 unique hand gestures: Front Fist, Back Fist, Front Peace, Back Peace, Front Palm, Back Palm, Thumbs Up, Thumbs Down,Ok Sign.
+Recognizes 9 unique hand gestures: Front Fist, Back Fist, Front Peace, Back Peace, Front Palm, Back Palm, Thumbs Up, Thumbs Down, Ok Sign.
 
 ## What Did We Use
 Programming Language: Python
