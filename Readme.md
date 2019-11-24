@@ -44,7 +44,7 @@ Back Peace Sign: &nbsp;
 
 Front Palm: &nbsp;
 
-![](Examples/Front_Fist.png "Front Palm")
+![](Examples/Front_Palm.png "Front Palm")
 
 Back Palm: &nbsp;
 
